@@ -1,0 +1,33 @@
+.Travel {
+  width: 165px;
+  height: 58px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+}
+
+.menu {
+  font-size: 16px;
+  font-family: "Helvetica";
+  line-height: 60px;
+  text-align: center;
+}
+
+.Border {
+  font-weight: 700;
+}
+
+.menu_style {
+  margin-right: 20px;
+  color: #59595b;
+  text-decoration: none;
+}
+
+.image {
+  width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
