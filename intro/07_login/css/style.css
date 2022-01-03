@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #1bbc9b;
+}
+
+.login-form {
+  width: 300px;
+  background-color: #eeeff1;
+  margin: 50px auto;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.text-field {
+  font-size: 14px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  width: 260px; /* 100%로 설정하면 됨. */
+}
+
+.submit-btn {
+  font-size: 14px;
+  margin-bottom: 30px;
+  background-color: #1bbc9b;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  width: 260px; /* 100%로 설정하면 됨. */
+  color: white;
+}
+
+.links {
+  text-align: center;
+}
+
+.links a {
+  font-size: 12px;
+  color: #9b9b9b;
+}
