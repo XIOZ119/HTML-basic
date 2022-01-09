@@ -54,6 +54,7 @@ body {
   border: 4px solid white;
   display: inline-block;
   padding: 9px 40px;
+  font-weight: bold;
 }
 #div6 {
   background-color: #4b0082;
